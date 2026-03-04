@@ -100,8 +100,10 @@ export default function Footer() {
             <div className="border-t border-gray-800 py-6">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-sm text-gray-500">
                     <p>© {new Date().getFullYear()} Gamini Super City | All Rights Reserved.</p>
+                    <p>🫂 BFF | <a href="https://www.linkedin.com/in/chathumal-sangeeth/" target="_blank">Chathumal</a> (Cozy)</p>
                 </div>
             </div>
         </footer>
     );
 }
+
